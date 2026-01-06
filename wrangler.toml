@@ -5,5 +5,5 @@ keep_vars = true
 
 [[kv_namespaces]]
 binding = "KV"			#KV绑定名默认不可修改
+id = "23ddb89e451942bf95bc85a1a13ceb12"				#KV数据库id
 
-id = "tsetunnel"				#KV数据库id
